@@ -1,0 +1,222 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A modest account of the present posture of affairs in England vvith particular reference to the Earl of Shaftsbury's case, and a vindication of him from two pretended letters of a noble peer / by a person of quality.</title>
+            <author>Person of quality.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51081</idno>
+            <idno type="STC">Wing M2349</idno>
+            <idno type="STC">ESTC R10406</idno>
+            <idno type="EEBO-CITATION">12999561</idno>
+            <idno type="OCLC">ocm 12999561</idno>
+            <idno type="VID">96462</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51081)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96462)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 391:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A modest account of the present posture of affairs in England vvith particular reference to the Earl of Shaftsbury's case, and a vindication of him from two pretended letters of a noble peer / by a person of quality.</title>
+                  <author>Person of quality.</author>
+               </titleStmt>
+               <extent>[2], 15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Baldwin,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Shaftesbury, Anthony Ashley Cooper, --  Earl of, 1621-1683.</term>
+               <term>Church of England --  History --  17th century.</term>
+               <term>Popish Plot, 1678.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96462:1"/>
+            <pb facs="tcp:96462:1" rendition="simple:additions"/>
+            <p>A <hi rend="blackletterType">Modeſt Account</hi> OF THE <hi>Preſent POST<g ref="char:V">Ʋ</g>RE</hi> of AFFAIRS IN ENGLAND, VVith Particular <hi>Reference</hi> to the Earl of Shaftsbury's CASE: And a VINDICATION of HIM from <hi rend="blackletterType">Two Pretended Letters</hi> OF A Noble Peer.</p>
+            <p>By a Perſon of <hi>Quality.</hi>
+            </p>
+            <p>LONDON, Printed for <hi>Richard Baldwin,</hi> MDCLXXXII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:96462:2"/>
+            <pb n="1" facs="tcp:96462:2"/>
+            <head>A <hi rend="blackletterType">Modeſt Account</hi> OF THE <hi>Preſent Poſture</hi> of <hi>AFFAIRS</hi> IN ENGLAND, VVith particular <hi>Reference</hi> to the <hi>EARL of SHAFTSB<g ref="char:V">Ʋ</g>RIES CASE;</hi> And a VINDICATION of HIM from two <hi>Pretended LETTERS</hi> of a <hi rend="blackletterType">Noble Peer.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>I Received yours, in Print by the Penny-Poſt and expected the Date from <hi>R.</hi> Abbey, and not from <hi>New-Market,</hi> but I underſtand your Lord<g ref="char:EOLhyphen"/>ſhip hath given your Agents in this Town the Lye, and not retired to your Country-houſe, up<g ref="char:EOLhyphen"/>on the Dukes coming; but have rather Poſted down to <hi>New-Market,</hi> with the new <hi>Hoſanna,</hi> of O Duke live for ever; which was ſome Years ſince, <hi>O King live for ever.</hi>
+               <pb n="2" facs="tcp:96462:3"/>
+I find your Lordſhip is no good Judg of Styles, for I can aſſure you the Letter was not the Earl of <hi>S—s,</hi> and therefore you do ill to take this occaſion of railing at him, unleſs you are reſolved to ſave charges, and do that in your own Perſon, which others are ſo unſucceſsful<g ref="char:EOLhyphen"/>ly hir'd to. It is a notorious falſe Teſtimony to ſay that Earl was raiſed from a mean Fortune, when 'tis well known his father in 1630 long before the troubles had a revenue between 8 and 9000<hi>l. per annum:</hi> And I have heard him often ſay, he would yield himſelf to be the worſt man alive, if he in the Kings ſervice got his main<g ref="char:EOLhyphen"/>tainance, or did lay up above half his Paternal Revenue, and I think ſo able a man may be allowed at leaſt, to be maintained in ſo great imployments; Neither do I un<g ref="char:EOLhyphen"/>derſtand that malicious hint of merited ſeverity, it was never applied to any man that had one of the chief hands in reſtoring a Prince to his Kingdom; as I know he had and without whoſe courage and dexterity, ſome men the moſt highly rewarded, had done otherwiſe then they did; therefore I have heard him ſay often, that the Act of Oblivion was an Act of the Kings honour and Ju<g ref="char:EOLhyphen"/>ſtice, <hi>as well as his</hi> Mercy? it being a Treaty, and A<g ref="char:EOLhyphen"/>greement, much more ſacred then any Act of Parlia<g ref="char:EOLhyphen"/>ment can be, and I muſt tell your Lordſhip, and your Friends the Papiſts; that if you conſider what Promiſes, Declarations, and Engagements the Diſſenting Prote<g ref="char:EOLhyphen"/>ſtants had; both of his Majeſty, his Lords, and his Bi<g ref="char:EOLhyphen"/>ſhops, at the time of his coming over; and how they have been ſince uſed, and with what ſubmiſſion and Loyalty they have carried themſelves; you will not find a Parallel Inſtance.</p>
+            <p>But your Lordſhips buſineſs is, to keep your Hounds in full cry, againſt the pretended Aſſociation, for ſince you cannot find one really in being; a red-herring from your own Kitching, muſt be hunted and trail'd through the Kingdom, to make a noiſe.</p>
+            <p>
+               <pb n="3" facs="tcp:96462:3"/>
+The malice is more then the wit in the matter. You have broken down your Gates in the Chace, and made ſo many—Gaps in your own hedges, that your Cat<g ref="char:EOLhyphen"/>tle are broke out and come to the Pound; and what ſort of Beaſt you trade in will be diſcovered. 'Tis an Im<g ref="char:EOLhyphen"/>pudence beyond the Jeſuites, to ſay that nothing was more exactly prov'd, nothing more unqueſtionable and free from diſputes, then that the Aſſociation was ſeiz'd in the Earls Cloſer; <hi>Gwyn</hi> himſelf neither does nor dare poſitively ſwear it, and 'tis Judged in that great caſe of <hi>Monſieur Fouquet,</hi> that a man is not anſwerable for Papers ſeiz'd when he is refus'd to deliver them upon Inventory. <hi>Fouquets</hi> enemies were not more bloudy and invetterate then the Earls, nor the concern of State againſt him higher: And yet the Law of Nature and Reaſon, can never ſubject a man to ſo unreaſonable a danger. Be<g ref="char:EOLhyphen"/>ſides was it ever heard that ever any man was queſtion<g ref="char:EOLhyphen"/>ed for a looſe Paper, without any hand to it, found in his Study, that cannot be proved to this day, nor ever will, that he ever ſaw, read, or conferred with any a<g ref="char:EOLhyphen"/>bout it; Neither is it to be proved notwithſtanding all this Popiſh Clamour and Abhorrours that ever any one man did ever Sign, or Act upon it; or any thing like it. But your Lordſhip is very plain in the matter, and would have the Parliament men in the Houſe of Commons who promoted the Aſſociation; have their heads advanced to the houſe top. I do not doubt but your Lordſhip and your friends the PAPISTS are of that mind; but 'tis for ſome other Votes they then made of de<g ref="char:EOLhyphen"/>claring Enemies to the King and Kingdom, for other<g ref="char:EOLhyphen"/>wiſe your Lordſhip and ſome of your friends, are as much guilty, as any of the houſe of Commons, of the Aſſociation. It being to be proved that the Aſſociation, and the baniſhing the Duke for ever, was your Lord<g ref="char:EOLhyphen"/>ſhips propoſition in the Lords houſe in the laſt Weſtmin<g ref="char:EOLhyphen"/>ſter Parliament. The firſt utterly diſliked by the Earl of <hi>Shaftsbury</hi> as no expedient they could truſt in, ſince
+<pb n="4" facs="tcp:96462:4"/>
+your Lordſhip and others of your make, could not be kept from being in the head of it. But thoſe eminent and Worthy Perſons of the Earl of <hi>Shaftsbury</hi>'s Jury muſt be rail'd at, at any Rate: Yet where your <hi>Lord<g ref="char:EOLhyphen"/>ſhip</hi> found that Two of the Jury ſhould ſay; <hi>This is the ſame with that which we ſaw produced and promoted in the Houſe of COMMONS,</hi> I cannot tell, I am ſure there is no ſuch Expreſſions in the <hi>Proceedings at the Old Baily, Publiſht by Authority:</hi> But between the Veracity of a <hi>Condemned Jeſuite</hi> in <hi>Newgate,</hi> and that of a <hi>Stateſ-man,</hi> mark'd out by a <hi>Vote</hi> of the <hi>Houſe of Commons</hi> for an Enemy to the King and Kingdom, I ſee here is no great odds. Your Lordſhip hath great Reaſon to be angry, for I confeſs they ſpoil'd the beſt Deſign was ever laid, by a damn'd <hi>Popiſh Party:</hi> The Government which you call according to Law, with the Help of <hi>Iriſh Witneſſes,</hi> and well choſen <hi>Juries,</hi> ſhould have delivered you from all the honeſt, worthy and conſiderable <hi>Proteſtants</hi> of <hi>England,</hi> for 'tis plainly con<g ref="char:EOLhyphen"/>feſt by your <hi>Lordſhip</hi> how far you meant to go; 'tis a Thouſand pities that the <hi>City-Charter</hi> were not gone, and that your <hi>Lordſhip,</hi> might not have the Naming of She<g ref="char:EOLhyphen"/>riffs for <hi>London</hi> and <hi>Middleſex,</hi> and then 'tis plain what Ju<g ref="char:EOLhyphen"/>ſtice we ſhould have for our <hi>Lives</hi> and <hi>Fortune:</hi> The Maſters of the <hi>Companies</hi> would then be Hanged with the Journey-men. And Sheriff <hi>Pilkinton</hi>'s Conſcientious <hi>Surry-Jury</hi> would be found at every Aſſizes; Eight hun<g ref="char:EOLhyphen"/>dred pound Damages given to ſuch a Fellow, that prov<g ref="char:EOLhyphen"/>ed not a Penny Damage received or poſſible to be re<g ref="char:EOLhyphen"/>ceived by it.</p>
+            <p>But ſince your <hi>Lordſhip</hi> hath had ſo great and good a Deſign ſpoiled, I cannot blame you to be angry; but I would very fain gueſs what you would next be at, or whether your Patience will hold out till the <hi>City-Char<g ref="char:EOLhyphen"/>ter</hi> be taken away, which I aſſure my ſelf will be long before it be done, I fear you will reſort to back the Pat<g ref="char:EOLhyphen"/>tern
+<pb n="5" facs="tcp:96462:4"/>
+in the Mount: And follow the Preſident of your Bloody Predeceſſors, before that CHARTER be taken away) the <hi>Gueſes</hi> in <hi>FRANCE, Cut Our throats and condemn us after;</hi> ſince we will not quietly be con<g ref="char:EOLhyphen"/>demned firſt and hanged after; I am ſure this is the next ſtep can reaſonably be expected from Men of your Conſcience, and from the <hi>Principles</hi> and <hi>Intereſt</hi> you are carrying on: Neither let any one blame me for mind<g ref="char:EOLhyphen"/>ing you of it, for I believe it hath been long in your mind and often in your thoughts, and therefore I thought it more neceſſary to warn others of what you are moſt likely to do. And ſince you talk ſo much of Loyalty and Love to Your Prince, I pray God preſerve the KING; and keep him out of your and all <hi>Papiſts</hi> bloody Hands.—</p>
+            <p>I beg to know to what purpoſe your <hi>Lordſhip</hi> recites, That my Lord <hi>Shaftsbury</hi> was Lord Chancellor, do you quarrel at any of His <hi>Decrees</hi> or <hi>Actions</hi> then, or where<g ref="char:EOLhyphen"/>in did he not execute that Office as a Great and Good Man ſhould, and what doth your <hi>Lordſhip</hi> mean by the certain ſtrict <hi>Teſt</hi> for the Diſcovery of <hi>Popery,</hi> oppoſed by that Lord in <hi>Parliament,</hi> the <hi>Teſt</hi> that was paſſed a<g ref="char:EOLhyphen"/>gainſt <hi>Popery</hi> (which every <hi>Officer</hi> is obliged to take) is notoriouſly known was principally promoted by Him: If your <hi>Lordſhip</hi> mean the other Bill of the <hi>Teſt</hi> which He oppoſed, 'tis the ſame with what Somebody hath paſſed lately Somewhere, and is a Great Step to the De<g ref="char:EOLhyphen"/>ſtruction of the <hi>Proteſtant Religion.</hi> The Truth is there are ſo many of theſe downright <hi>Popiſh Touches</hi> in your <hi>Paper,</hi> That I ſometimes doubt, whether it be Your <hi>Lordſhips</hi> or no? ſince <hi>You</hi> are but a young <hi>Convert,</hi> and yet they ſay young <hi>Proſelytes</hi> are the fierceſt; But this <hi>Paper</hi> muſt come from a PAPIST or <hi>Voted Enemy</hi> to the <hi>King</hi> and <hi>Kingdom,</hi> ſince you tell us, that you would have the Days of DISSOLVING the Two laſt <hi>Parli<g ref="char:EOLhyphen"/>aments</hi> kept <hi>Festival</hi> Anniverſarily, in Commemoration of your Deliverance from thoſe Great and Apparent
+<pb n="6" facs="tcp:96462:5"/>
+Dangers, wherewith you were encompaſſed, whilſt they were in SESSION; None but ſuch Fellows and their <hi>Faction</hi> being then in <hi>Danger.</hi>
+            </p>
+            <p>But I find your <hi>Lordſhip</hi> extream angry at the Word FACTION; ſince you will pleaſe to have it, that your Worthy ABHORRERS and ADDRESSORS are not a FACTION, but the <hi>Total</hi> of the Kings Subjects, who Conſcientiouſly reſpect their own Duty and the General Welfare; pray, my Lord, let us examine this Excellent Poſition of your <hi>Lordſhips</hi> ſetting aſide your Heat and Railing. Does your <hi>Lordſhip</hi> think that the choice of SHERIFFS, the great care in returning ſelect Men for <hi>Grand Juries;</hi> The Arts that were us'd to draw many of them into theſe <hi>Abhorrences,</hi> are not well known to All the Nation; We never doubt but you have choice of <hi>Gentlemen</hi> to make SHERIFFS fit for your TURN, and they, if they prove ill MEN, may find <hi>Rogues</hi> to make <hi>Under-Sheriffs</hi> in every County: Neither is it doubted that Seventeen or Eighteen Men may be found in moſt Counties, for your Turn; al<g ref="char:EOLhyphen"/>though in ſome (and thoſe great Counties too) you could not find above Thirteen, and in ſeveral other Coun<g ref="char:EOLhyphen"/>ties you have failed abſolutely, and yet all this will not ſpeak your PARTY <hi>The Hundred Part of the Nation.</hi> Hath your Lordſhip found out another way to make a Diſtinction between the SENSE of the <hi>Nation,</hi> and that of a <hi>Dangerous</hi> PARTY, than that of the <hi>Houſe of Commons?</hi> Will you tell Me, That a PARLIAMENT choſen againſt all the Oppoſition, Induſtry, Power and Money of the COURT, is not the SENSE of Greateſt Part of the NATION? Will your <hi>Lordſhip</hi> affirm, That this is a FACTION, and your <hi>Lordſhip</hi> the PAPISTS, the D. of Y. and his Creatures, are the only Loyal Subjects to the King and Government. And what fort of People theſe make up may be gueſs'd by what you proſeſs your ſelf for: A Government infi<g ref="char:EOLhyphen"/>nitely worſe than that in <hi>Turkey;</hi> wherein the Law
+<pb n="7" facs="tcp:96462:5"/>
+ſhall be of no other Uſe, (if it may be as your Lord<g ref="char:EOLhyphen"/>ſhip would have it,) but as a Mask to the Princes worſt Actions and Tyranny. Our Religion, Eſtates, Lives and Liberties, your <hi>Lordſhip</hi> would have to be Sub<g ref="char:EOLhyphen"/>jected to the Will of the Prince, who being a Man is as capable and lyable to be extreamly Ill as any o<g ref="char:EOLhyphen"/>ther, tho bleſſed be God, for our <hi>Good King;</hi> beſides what Law you allow to this King (who is an Excellent and the Beſt of PRINCES) as your King, muſt be allowed to the next, though He be the worſt in Nature: And yet You will find out a Way, Your ſelf to Name to the <hi>KING</hi> Judges, Sheriffs, and JURIES, and ſo then all things ſhall cer<g ref="char:EOLhyphen"/>tainly go as the Court and Great Men order; 'tis already ſo compleat in <hi>S—,</hi> where the Proverb is, <hi>Show me the Man and I will tell you the Cauſe.</hi> This is a Way that no Sober, or honeſt Men were ever for in any Country. The Zeal of your Lordſhip to preſerve the Greatneſs of your Duke, his <hi>Zeal</hi> to get a Crown, and of the PAPISTS to introduce their Religion, hath out-gone by many Degrees, all that ever went before you.</p>
+            <p>I Acknowledg it the Kings Prerogative to CALL <hi>Parliaments,</hi> but <hi>Edward</hi> the III. tells us He was ſworn by his Coronation-Oath to provide Remedy in <hi>Parli<g ref="char:EOLhyphen"/>ament</hi> upon <hi>Great Emergencies.</hi> And our Laws have been very careful to Fix the Frequency of them<hi>:</hi> And 'tis that only COURT that can keep all the reſt uſe<g ref="char:EOLhyphen"/>ful to the King and People: They are brave Spirits indeed, and bleſt with a <hi>Toriſh Humility,</hi> or rather <hi>ſtupid Folly,</hi> if not wicked, Villanous Deſigns, that are unconcerned when a PARLIAMENT ſhould be called, and leave it to the PRINCE, whether He pleaſe to have any or no without affording Him their Advice.</p>
+            <p>
+               <pb n="8" facs="tcp:96462:6"/>
+The LAW hath given us a <hi>Right</hi> (nay 'tis our chie<g ref="char:EOLhyphen"/>feſt Birth-right, and without which we have nothing left us, but are meer ſlaves) to PARLIAMENTS within ſuch a diſtance of Time: The Prince hath the <hi>Prerogative</hi> of appointing the Day; and Diſſolving when the Buſineſs is done: But the <hi>Prince (ſome think)</hi> is obliged that we have <hi>Parliaments</hi> within our Time, and conti<g ref="char:EOLhyphen"/>nued ſo as may be of effect to provide Remedies for the Emergent Evils. His Prerogative of <hi>Appointing</hi> the Day, <hi>we hope,</hi> will not deprive us of our Right of having them in ſuch a Time, Neither will His Power to DISSOLVE them, <hi>we hope,</hi> Render them USELESS to Us.</p>
+            <p>I am heartily ſorry your <hi>Lordſhip</hi> is ſo ill inſtructed in the <hi>Proteſtant Religion,</hi> That you ask what it is? but you profeſs, That <hi>Your ſelf</hi> and your <hi>Fellow-Addreſſors</hi> and <hi>Abhorrers</hi> are zealous for the <hi>Religion</hi> by LAW Eſta<g ref="char:EOLhyphen"/>bliſhed in the Church of <hi>ENGLAND,</hi> ſo then you do not know the <hi>Protestant Religion,</hi> but <hi>Religion</hi> by LAW Eſtabliſhed you are very well acquainted with. What ſecurity will your <hi>Lordſhip</hi> give, That when your Ar<g ref="char:EOLhyphen"/>my is compleated, and your <hi>Militia Abhorrers</hi> and <hi>Ad<g ref="char:EOLhyphen"/>dreſſors</hi> Muſtered, That you will not tell Us, The <hi>Religion</hi> Eſtabliſhed by LAW in the Church of <hi>England</hi> is the <hi>Old Popiſh Religion</hi> ſetled by <hi>Magna Charta,</hi> which is not Repealable by any future Act. For this <hi>Good Old Cauſe,</hi> your <hi>Lordſhip</hi> and <hi>Friends</hi> hath nurſt up the King of <hi>France</hi> to this height, He is now in Chriſten<g ref="char:EOLhyphen"/>dom, and all <hi>Europe</hi> is abundantly in your Debt for it.</p>
+            <q>
+               <hi>Quantum Religio potuit ſuadere Malorum!</hi>
+            </q>
+            <p>
+               <pb n="9" facs="tcp:96462:6"/>
+I Own my ſelf a Friend to the <hi>Diſſenting Protestants,</hi> until your <hi>Lordſhip</hi> can find out an Infallible decider of points of FAITH.—I can give men leave to differ from me in opinion, whilſt they live ſo<g ref="char:EOLhyphen"/>berly and honeſtly by me.—There are none I know ſo inconſiſtent with Government as the PA<g ref="char:EOLhyphen"/>PIST; who owns a <hi>Forreign Jurisdiction,</hi> and di<g ref="char:EOLhyphen"/>ſolves all Natural Religion to introduce his <hi>Own.</hi>—And though your <hi>Lordſhip</hi> is pleaſed to add the word <hi>Rebel</hi> to the Name PROTESTANT; yet it will agree much better with the <hi>Papists,</hi> whoſe <hi>Reli<g ref="char:EOLhyphen"/>gion</hi> is <hi>Rebellion;</hi> and 'tis impoſſible to find one true Subject of them in the World, (to any but the <hi>Pope)</hi> if they believe their own <hi>Religion.</hi>
+            </p>
+            <p>I find your <hi>Lordſhip</hi> is very kin<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to <hi>Court Converts,</hi> and will very freely paſs over the Blackneſs of all their former <hi>Tianſactions;</hi> and you have great Reaſon, ſince you are ſo lately <hi>One</hi> your ſelf: But be not de<g ref="char:EOLhyphen"/>luded, the <hi>Papiſts</hi> think not as you think; they never forgive Paſt Offences.—<hi>Argile</hi> cannot be forgiven the being his Fathers Son.—Nor the Duke of L— will not be forgiven the having brought the COVENANT into <hi>England.— Tw—</hi> will find hereafter that 'twill be remembred he ſat in <hi>Olivers</hi> Parliaments. And I ſhould tell your <hi>Lordſhip,</hi> that you may ſuffer hereafter by a ſtring of <hi>ſome bodies</hi> pro<g ref="char:EOLhyphen"/>viding; but that my skill in <hi>Aſtrology</hi> hath told me, a Garter of your own uſeing <hi>&amp;c.—</hi>The jea<g ref="char:EOLhyphen"/>lous <hi>Churchmen</hi> that Govern the <hi>Popiſh Intereſt</hi> never for<g ref="char:EOLhyphen"/>give, eſpecially Men capable of thinking and judging other things, then they would have them.</p>
+            <p>
+               <pb n="10" facs="tcp:96462:7"/>
+Your <hi>Lordſhip</hi> is extreamly out, when you tell us that the <hi>Aſſociations</hi> in Queen ELIZABETH'S time, were entred into with her Conſent and Privi<g ref="char:EOLhyphen"/>ty; when the Queen her ſelf, in her Speech to the PARLIAMENT, in the twe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ty eight year of her Reign: <hi>Did protest before God, that ſhe never heard or thought of ſuch matter, being wholly ignorant of it till a great number of</hi> Hands, <hi>with many</hi> Obligations <hi>were ſhown her at</hi> Hampton Court, <hi>ſigned and ſubſcribed with the</hi> Hands <hi>and</hi> Seales <hi>of the greateſt in this Land.</hi>—But you are pleaſed to call the ſeveral PARLIA<g ref="char:EOLhyphen"/>MENTS, that about that time, ſo extreamly op<g ref="char:EOLhyphen"/>poſed the SUCCESSION of <hi>Mary,</hi> Queen of <hi>Scots</hi> a PURITAN GANG, and have found out a <hi>Clergy, Nobility,</hi> and <hi>Gentry,</hi> in the <hi>Clouds,</hi> that were of another opinion, no queſtion there were ſome and great ſtore of PAPISTS in thoſe days, but I am ſure the PARLIAMENT were violently a<g ref="char:EOLhyphen"/>gainſt her <hi>Succesſion,</hi> as appears in the Rolls: nay<g ref="char:punc">▪</g> and againſt her life too; for it was then daily experi<g ref="char:EOLhyphen"/>enced, that the <hi>Queen</hi> was not ſafe, whilſt the Head of ſo deſperate and bloudy a <hi>Religion</hi> as the PA<g ref="char:EOLhyphen"/>PISTS was in being<g ref="char:punc">▪</g>—</p>
+            <p>Pray, My Lord, let me ask you freely, is not this the very <hi>Caſe</hi> now? 'Twas the Opinion of our PARLIAMENTS, and the truth ap<g ref="char:EOLhyphen"/>pears every day more and more. Pray let us hear your <hi>Lordſhip</hi> make a difference between the Caſe of Queen ELIZABETH, and her POPISH SUCCESSOR, <hi>Mary</hi> Queen of <hi>Scots:</hi> (which your ſelf have ſo wiſely Inſtanced in and brought up<g ref="char:EOLhyphen"/>on the Stage) and our Caſe at this preſent jun<g ref="char:EOLhyphen"/>cture. Have the PAPISTS appeared leſs <hi>Bloudy</hi> in their deſigns ſince that time? Have they leſs <hi>Paſ<g ref="char:EOLhyphen"/>ſion</hi> for introducing their <hi>Religion?</hi> Did the Queen of <hi>Scots</hi> diſcover more Ambition for the Crown of
+<pb n="11" facs="tcp:96462:7"/>
+               <hi>England,</hi> than — <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <g ref="char:punc">▪</g> She was a <hi>Priſoner</hi> in the Queens hands and in cuſtody, and had not the <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the opportunity — hath, whoſe French <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, poſſeſſe many of the <hi>Govern<g ref="char:EOLhyphen"/>ments<g ref="char:punc">▪</g>
+               </hi> 
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> To ſay no more; but <hi>Some bodies Loy<g ref="char:EOLhyphen"/>alty</hi> is not to be diſputed<g ref="char:punc">▪</g> Though I remember the ti<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e when—but hold! I muſt not run the <hi>Parallel</hi> too far, leaſt by making too great a Reſemblance, I provoke — I could elſe ſay much more, but leave it to your LORDSHIP to make it out.</p>
+            <p>But now let us have one Word about the <hi>D.</hi>
+            </p>
+            <p>We are all Witneſſes of the KINGS Marriage by the Advice (as was reported) of the Dukes Fa<g ref="char:EOLhyphen"/>ther in Law, to a LADY of great Birth, but ſuch as (it is ſaid) the <hi>Spaniſh Embaſſador</hi> then un<g ref="char:EOLhyphen"/>dertook to prove could have no CHILDREN: And immediately upon this Marriage, we are all Witneſſes to our unſpeakable ſorrow, what fol<g ref="char:EOLhyphen"/>lowed, which I will not here Perticularize; His unparrallel'd love to his <hi>Prince,</hi> appears in all this, and in nothing more then the Civil Treatment the KING at this hour receives from him and his Par<g ref="char:EOLhyphen"/>ty, the throngs that tend the one, whilſt the Other walks the ſtreets with two or three Pages of his back<g ref="char:EOLhyphen"/>ſtayres: Our KING is the firſt inſtance that ever I read off, that hath by thoſe about him, been perſwa<g ref="char:EOLhyphen"/>ded to be <hi>ſo willing to ſettle indubitably the</hi> TITLE <hi>of his Preſumptive Heir;</hi> But undoubtedly his MAJESTY hath better Reaſons for it then we know of; Our King is not only an excellent well bred <hi>Gentleman,</hi> but a man of great Abilities and Courage, <hi>Three things One that looks High wants:</hi> When ever the King deſires it He will not want Hundreds of Thouſands to dye
+<pb n="12" facs="tcp:96462:8"/>
+at his Feet: Multitudes do adore him that hate and fear the <hi>Religion</hi> and Temper of —<g ref="char:punc">▪</g> Pray God bleſs the King, and give him yet more and more the Spirit of diſcerning his Intereſt and Friends, and the Courage to deliver himſelf from the hands of all un<g ref="char:EOLhyphen"/>worthy baſe TRAYTORS, as would encom<g ref="char:EOLhyphen"/>paſs Him, Shall ever be the hearty <hi>Prayers</hi> of.</p>
+            <closer>
+               <signed>Yours, <hi>&amp;c.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb n="13" facs="tcp:96462:8"/>
+            <head>THE POST-SCRIPT.</head>
+            <p>ONE Thing I had almoſt forgot, which is this, that it ſhews, in my Opinion, very mean and degrading for a <hi>Perſon</hi> in your Lordſhips Station, to be continually trou<g ref="char:EOLhyphen"/>bling the Preſs with little <hi>Pamphlets,</hi> as if your <hi>Lordſhip</hi> had nothing to do, but to vent every con<g ref="char:EOLhyphen"/>ceit and quaint Notion that comes into your Head in <hi>Let<g ref="char:EOLhyphen"/>ters</hi> to your <hi>Friend:</hi> The General <hi>Conduit-pipe</hi> that conveys <hi>VVhim</hi> and <hi>Fancy</hi> now a days through the Nation. That many Great <hi>Stateſmen</hi> have been famous for cheriſhing and encouraging the Fomenters of Diſtraction and Diſ<g ref="char:EOLhyphen"/>ſentions, as their ſeveral Intereſts by affect them the Stories of their <hi>Lives</hi> declare; however then they al<g ref="char:EOLhyphen"/>ways ſtood behind the Curtain, and played leaſt in fight themſelves: But for your <hi>Lordſhip</hi> to turn <hi>Paper<g ref="char:EOLhyphen"/>waster,</hi> and thruſt your ſelf among the Throng of <hi>Town-S<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ble<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>s,</hi> ſhews an eagerneſs of appearing among the Rabble, miſ-becoming your <hi>Grand<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>.</hi> It looks like <hi>Nero</hi> among the <hi>Fidlers.</hi> But your Lordſhip gives ſome Reaſon for your Condeſcenſion. For 'tis plain from your Writings, That your Counſels have been <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, that is no ſay, have proved unfortunate;
+<pb n="14" facs="tcp:96462:9"/>
+therefore in point of HONOUR you can do no leſs than defend the <hi>Natural Iſſue</hi> of your Brain, and therefore it is, that you cannot chuſe but fume and fret to ſee a PLOT ſo well laid prove ſo ineffe<g ref="char:EOLhyphen"/>ctual.</p>
+            <p>But whether you have done either politickly, or pru<g ref="char:EOLhyphen"/>dently to lay your ſelf open to the World, by venting your Peaks and diſſatisfaction againſt the <hi>Darlings</hi> of all true <hi>Engliſh Men,</hi> that value their Lives and Liberties, I mean JURY-MEN of <hi>Integrity</hi> and <hi>Conſcience,</hi> your Lo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dſhip beſt knows. However your Lordſhip's <hi>Mo<g ref="char:EOLhyphen"/>ral Philoſophy</hi> ſeems to fail you very much, ſince your Lordſhip cannot but know how odly and capriciouſly <hi>Fortune</hi> behaves her ſelf in this World. The Miſchief o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t is, and that which grieves me moſt, that your Lord<g ref="char:EOLhyphen"/>ſhip, the only Eminent Lord in <hi>England</hi> for putting Pen to Paper, unleſs the Lord <hi>Caſtlemain,</hi> ſhould be no leſs un<g ref="char:EOLhyphen"/>fortunate in your Argument than in your Counſel, by Undertaking to <hi>Cavil</hi> with <hi>Conſcience,</hi> which let your Lordſhip ſay what you can is that which muſt Govern the Peace and Tranquility of this unruly <hi>Sublunary Spot.</hi> Had it been a <hi>Theſis</hi> in <hi>Philoſophy</hi> concerning the Ebbing and Flowing of the Sea, or in <hi>Mathematicks,</hi> concerning the Probability of the Flying Engine, it had been but manners to have granted your Lordſhip the point. But where the <hi>National</hi> Concerns of <hi>Life and Liberty</hi> are at ſtake, we cannot bate your Lordſhip an Ace. Your Lordſhip would do well to conſider that you Live in an <hi>Abbey;</hi> and therefore if <hi>You</hi> do not like it, <hi>you</hi> had better ſell it, than ſit contriving ways to have it taken away. Certainly <hi>Ambition</hi> was never at a greater height than now, while men aſpire not only to <hi>Outwit</hi> one another, but to <hi>Outwit</hi> themſelves; the <hi>Impulſe</hi> of <hi>Jeſuitical Sublimi<g ref="char:EOLhyphen"/>ty</hi> putting them upon the fond <hi>Toyle</hi> of Endeavouring to
+<pb n="15" facs="tcp:96462:9"/>
+ſurpaſs <hi>Humanity,</hi> and to ſpin out the Thread of <hi>Politicks</hi> to that Inviſibility, till it ſnap with its own Fineneſs. Theſe are the Snares, which the cunning <hi>Jeſuits</hi> have laid for Us <hi>Engliſhmen,</hi> whoſe duller. Apprehenſions, as they believe, not being able to reach their Seraphick Acute<g ref="char:EOLhyphen"/>neſs, they laugh to think what ſport they ſhall have to vapour over out unwary Politicians, when hampered in the <hi>Vulcans</hi> Nets of their own framing. But if <hi>your Lord<g ref="char:EOLhyphen"/>ſhip,</hi> who has the applauſe of being a Divine as well as a Polititian, would but conſider how eaſily <hi>Tricks</hi> and <hi>Subtleties</hi> are obviated by a Noble, Generous, and Mag<g ref="char:EOLhyphen"/>nanimous honeſty, the beſt of all Policies in the world we might then by <hi>your</hi> good Counſel, hope to ſee a ſit<g ref="char:EOLhyphen"/>ing Parliament again, which is only dreadful to the con<g ref="char:EOLhyphen"/>ſcious, like General Councels to the Pope, where <hi>your Lordſhip</hi> might ſit ſafe for what <hi>your</hi> Vertues, not <hi>your</hi> Fail<g ref="char:EOLhyphen"/>ings deſerve.</p>
+         </div>
+         <trailer>FINIS</trailer>
+      </back>
+   </text>
+</TEI>
